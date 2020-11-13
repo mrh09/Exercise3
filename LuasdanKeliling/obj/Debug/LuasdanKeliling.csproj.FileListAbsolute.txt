@@ -1,0 +1,7 @@
+F:\Mastering-OOP\Latihan 2\LuasdanKeliling\LuasdanKeliling\bin\Debug\LuasdanKeliling.exe.config
+F:\Mastering-OOP\Latihan 2\LuasdanKeliling\LuasdanKeliling\bin\Debug\LuasdanKeliling.exe
+F:\Mastering-OOP\Latihan 2\LuasdanKeliling\LuasdanKeliling\bin\Debug\LuasdanKeliling.pdb
+F:\Mastering-OOP\Latihan 2\LuasdanKeliling\LuasdanKeliling\obj\Debug\LuasdanKeliling.csprojAssemblyReference.cache
+F:\Mastering-OOP\Latihan 2\LuasdanKeliling\LuasdanKeliling\obj\Debug\LuasdanKeliling.csproj.CoreCompileInputs.cache
+F:\Mastering-OOP\Latihan 2\LuasdanKeliling\LuasdanKeliling\obj\Debug\LuasdanKeliling.exe
+F:\Mastering-OOP\Latihan 2\LuasdanKeliling\LuasdanKeliling\obj\Debug\LuasdanKeliling.pdb
