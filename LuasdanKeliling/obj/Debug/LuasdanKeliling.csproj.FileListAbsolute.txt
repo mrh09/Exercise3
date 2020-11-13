@@ -5,3 +5,10 @@ F:\Mastering-OOP\Latihan 2\LuasdanKeliling\LuasdanKeliling\obj\Debug\LuasdanKeli
 F:\Mastering-OOP\Latihan 2\LuasdanKeliling\LuasdanKeliling\obj\Debug\LuasdanKeliling.csproj.CoreCompileInputs.cache
 F:\Mastering-OOP\Latihan 2\LuasdanKeliling\LuasdanKeliling\obj\Debug\LuasdanKeliling.exe
 F:\Mastering-OOP\Latihan 2\LuasdanKeliling\LuasdanKeliling\obj\Debug\LuasdanKeliling.pdb
+C:\Users\MRH\Documents\GitHub\Exercise3\LuasdanKeliling\bin\Debug\LuasdanKeliling.exe.config
+C:\Users\MRH\Documents\GitHub\Exercise3\LuasdanKeliling\bin\Debug\LuasdanKeliling.exe
+C:\Users\MRH\Documents\GitHub\Exercise3\LuasdanKeliling\bin\Debug\LuasdanKeliling.pdb
+C:\Users\MRH\Documents\GitHub\Exercise3\LuasdanKeliling\obj\Debug\LuasdanKeliling.csprojAssemblyReference.cache
+C:\Users\MRH\Documents\GitHub\Exercise3\LuasdanKeliling\obj\Debug\LuasdanKeliling.csproj.CoreCompileInputs.cache
+C:\Users\MRH\Documents\GitHub\Exercise3\LuasdanKeliling\obj\Debug\LuasdanKeliling.exe
+C:\Users\MRH\Documents\GitHub\Exercise3\LuasdanKeliling\obj\Debug\LuasdanKeliling.pdb

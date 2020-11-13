@@ -22,6 +22,7 @@ namespace LuasdanKeliling
             {
 
                 {
+                    Console.Clear();
                     Console.WriteLine("Pilih bangun datar yang akan dihitung : ");
                     Console.WriteLine(" 1. Persegi ");
                     Console.WriteLine(" 2. Persegi panjang ");
